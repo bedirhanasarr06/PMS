@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3519ebd4-8f83-439b-b71a-f320a546c6eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/repository/PersonnelDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/PersonnelAddingView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "4fbdef53",
+    "git-widget-placeholder": "dev",
     "last_opened_file_path": "C:/Users/LENOVO PC/Downloads",
     "onboarding.tips.debug.path": "C:/Users/LENOVO PC/IdeaProjects/PMS/src/Main.java",
     "project.structure.last.edited": "Libraries",
@@ -51,10 +53,16 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.PersonnelAddingView">
+    <configuration name="PersonnelAddingView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.PersonnelAddingView" />
       <module name="PMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="view.SimpleServer" />
+    <configuration name="SimpleClientGUI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.SimpleClientGUI2" />
       <module name="PMS" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PersonnelOperationForm" />
+        <item itemvalue="Application.PersonnelAddingView" />
+        <item itemvalue="Application.SimpleClientGUI2" />
         <item itemvalue="Application.SimpleClientGUI" />
         <item itemvalue="Application.ServerWithDatabase" />
-        <item itemvalue="Application.SimpleServer" />
+        <item itemvalue="Application.PersonnelOperationForm" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,203 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3519ebd4-8f83-439b-b71a-f320a546c6eb\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectCodeStyleSettingsMigration\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2pOfayvjuZ9UI4iVXwjUtrl54eA\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"dart.analysis.tool.window.visible\": \"false\",\r\n    \"git-widget-placeholder\": \"4fbdef53\",\r\n    \"last_opened_file_path\": \"C:/Users/LENOVO PC/Downloads\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/LENOVO PC/IdeaProjects/PMS/src/Main.java\",\r\n    \"project.structure.last.edited\": \"Libraries\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"show.migrate.to.gradle.popup\": \"false\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.Main\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"PMS\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"PersonnelOperationForm\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"PersonnelOperationForm\" />\r\n      <module name=\"PMS\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ServerWithDatabase\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"view.ServerWithDatabase\" />\r\n      <module name=\"PMS\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"view.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SimpleClientGUI\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"view.SimpleClientGUI\" />\r\n      <module name=\"PMS\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"view.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SimpleServer\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"view.SimpleServer\" />\r\n      <module name=\"PMS\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"view.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.PersonnelOperationForm\" />\r\n        <item itemvalue=\"Application.SimpleClientGUI\" />\r\n        <item itemvalue=\"Application.ServerWithDatabase\" />\r\n        <item itemvalue=\"Application.SimpleServer\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3519ebd4-8f83-439b-b71a-f320a546c6eb\" name=\"Changes\" comment=\"\" />\r\n      <created>1732642115550</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1732642115550</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"8f8f36fe-a78e-4d24-b6b9-3e6f5de0a9c8\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"main\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"8f8f36fe-a78e-4d24-b6b9-3e6f5de0a9c8\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,8 +4,14 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3519ebd4-8f83-439b-b71a-f320a546c6eb" name="Changes" comment="">
++    <list default="true" id="3519ebd4-8f83-439b-b71a-f320a546c6eb" name="Changes" comment="&quot;workspace.xml&quot; was added">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/company.db" beforeDir="false" afterPath="$PROJECT_DIR$/company.db" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/controller/PersonnelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PersonnelController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/repository/PersonnelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/PersonnelRepository.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/view/PersonnelView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/PersonnelView.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/view/SimpleClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SimpleClientGUI.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -42,8 +48,8 @@
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "dart.analysis.tool.window.visible": "false",
+-    "git-widget-placeholder": "4fbdef53",
+-    "last_opened_file_path": "C:/Users/LENOVO PC/Downloads",
++    "git-widget-placeholder": "dev",
++    "last_opened_file_path": "C:/Users/LENOVO PC/IdeaProjects/PMS_2",
+     "onboarding.tips.debug.path": "C:/Users/LENOVO PC/IdeaProjects/PMS/src/Main.java",
+     "project.structure.last.edited": "Libraries",
+     "project.structure.proportion": "0.0",
+@@ -92,8 +98,8 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="SimpleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="view.SimpleServer" />
++    <configuration name="SimpleClientGUI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="view.SimpleClientGUI2" />
+       <module name="PMS" />
+       <extension name="coverage">
+         <pattern>
+@@ -108,10 +114,10 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.Main" />
+-        <item itemvalue="Application.PersonnelOperationForm" />
+         <item itemvalue="Application.SimpleClientGUI" />
+         <item itemvalue="Application.ServerWithDatabase" />
+-        <item itemvalue="Application.SimpleServer" />
++        <item itemvalue="Application.SimpleClientGUI2" />
++        <item itemvalue="Application.PersonnelOperationForm" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -124,6 +130,15 @@
+       <option name="presentableId" value="Default" />
+       <updated>1732642115550</updated>
+     </task>
++    <task id="LOCAL-00001" summary="&quot;workspace.xml&quot; was added">
++      <option name="closed" value="true" />
++      <created>1734115021231</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1734115021231</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -186,4 +201,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="&quot;workspace.xml&quot; was added" />
++    <option name="LAST_COMMIT_MESSAGE" value="&quot;workspace.xml&quot; was added" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: src/repository/PersonnelDAO.java
+===================================================================
+diff --git a/src/repository/PersonnelDAO.java b/src/repository/PersonnelDAO.java
+new file mode 100644
+--- /dev/null	
++++ b/src/repository/PersonnelDAO.java	
+@@ -0,0 +1,108 @@
++package repository;
++import java.sql.*;
++import java.util.*;
++
++public class PersonelDAO {
++    private static final String URL = "jdbc:mysql://localhost:3306/personel_db"; // Veritabanı URL
++    private static final String USER = "root"; // Kullanıcı adı
++    private static final String PASSWORD = "password"; // Şifre
++
++    // Veritabanı bağlantısı kuran metod
++    private Connection connect() throws SQLException {
++        return DriverManager.getConnection(URL, USER, PASSWORD);
++    }
++
++    // Personel ekleme
++    public void addPersonel(Personel personel) {
++        String sql = "INSERT INTO personel (name, surname, person_id, birth_date, hire_date, department_id, salary) VALUES (?, ?, ?, ?, ?, ?, ?)";
++        try (Connection conn = connect(); PreparedStatement stmt = conn.prepareStatement(sql)) {
++            stmt.setString(1, personel.getName());
++            stmt.setString(2, personel.getSurname());
++            stmt.setInt(3, personel.getPersonID());
++            stmt.setString(4, personel.getBirthDate());
++            stmt.setString(5, personel.getHireDate());
++            stmt.setInt(6, personel.getDepartmentID());
++            stmt.setDouble(7, personel.getSalary());
++            stmt.executeUpdate();
++        } catch (SQLException e) {
++            e.printStackTrace();
++        }
++    }
++
++    // Personel güncelleme
++    public void updatePersonel(Personel personel) {
++        String sql = "UPDATE personel SET name = ?, surname = ?, birth_date = ?, hire_date = ?, department_id = ?, salary = ? WHERE person_id = ?";
++        try (Connection conn = connect(); PreparedStatement stmt = conn.prepareStatement(sql)) {
++            stmt.setString(1, personel.getName());
++            stmt.setString(2, personel.getSurname());
++            stmt.setString(3, personel.getBirthDate());
++            stmt.setString(4, personel.getHireDate());
++            stmt.setInt(5, personel.getDepartmentID());
++            stmt.setDouble(6, personel.getSalary());
++            stmt.setInt(7, personel.getPersonID());
++            stmt.executeUpdate();
++        } catch (SQLException e) {
++            e.printStackTrace();
++        }
++    }
++
++    // Personel silme
++    public void deletePersonel(int personID) {
++        String sql = "DELETE FROM personel WHERE person_id = ?";
++        try (Connection conn = connect(); PreparedStatement stmt = conn.prepareStatement(sql)) {
++            stmt.setInt(1, personID);
++            stmt.executeUpdate();
++        } catch (SQLException e) {
++            e.printStackTrace();
++        }
++    }
++
++    // Personel arama (arama terimi ile)
++    public List<Personnel> searchPersonel(String searchTerm) {
++        List<Personel> resultList = new ArrayList<>();
++        String sql = "SELECT * FROM personel WHERE name LIKE ? OR surname LIKE ?";
++        try (Connection conn = connect(); PreparedStatement stmt = conn.prepareStatement(sql)) {
++            stmt.setString(1, "%" + searchTerm + "%");
++            stmt.setString(2, "%" + searchTerm + "%");
++            ResultSet rs = stmt.executeQuery();
++            while (rs.next()) {
++                Personel personel = new Personel(
++                        rs.getString("name"),
++                        rs.getString("surname"),
++                        rs.getInt("person_id"),
++                        rs.getString("birth_date"),
++                        rs.getString("hire_date"),
++                        rs.getInt("department_id"),
++                        rs.getDouble("salary")
++                );
++                resultList.add(personel);
++            }
++        } catch (SQLException e) {
++            e.printStackTrace();
++        }
++        return resultList;
++    }
++
++    // Personel tüm listeyi getirme
++    public List<Personnel> getAllPersonel() {
++        List<Personnel> resultList = new ArrayList<>();
++        String sql = "SELECT * FROM personel";
++        try (Connection conn = connect(); PreparedStatement stmt = conn.prepareStatement(sql); ResultSet rs = stmt.executeQuery()) {
++            while (rs.next()) {
++                Personnel personel = new Personnel(
++                        rs.getString("name"),
++                        rs.getString("surname"),
++                        rs.getInt("person_id"),
++                        rs.getString("birth_date"),
++                        rs.getString("hire_date"),
++                        rs.getInt("department_id"),
++                        rs.getDouble("salary")
++                );
++                resultList.add(personel);
++            }
++        } catch (SQLException e) {
++            e.printStackTrace();
++        }
++        return resultList;
++    }
++}
+\ No newline at end of file
